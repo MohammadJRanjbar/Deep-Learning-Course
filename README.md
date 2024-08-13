@@ -1,6 +1,6 @@
-# Deep-Learning-Course <img src="University_of_Tehran_logo.svg.png" alt="Machine Learning" width="50">
+# Deep-Learning-Course <img src="University_of_Tehran_logo.svg.png" alt="Deep Learning" width="50">
 
-Welcome to the Statistical Inference course repository offered at the University of Tehran. This repository contains code for assignments and projects completed during the course. The course by:
+Welcome to the Deep Learning course repository offered at the University of Tehran. This repository contains code for assignments and projects completed during the course. The course by:
 
 - [Dr. Ahmad Kalhor](https://scholar.google.com/citations?user=m7xdmMgAAAAJ&hl=en)
 
